@@ -2,6 +2,7 @@
     "name": "SOC: Selection-Optimization-Compensation questionnaire",
     "template":"survey",
     "exp_id": "selection-optimization-compensation-survey",
+    "url": "https://github.com/expfactory-experiments/selection-optimization-compensation-survey",
     "cognitive_atlas_task_id": "trm_56ac06bac9334",
     "contributors": [
              "Zeynep Enkavi",
